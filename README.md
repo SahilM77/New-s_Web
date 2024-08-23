@@ -43,5 +43,5 @@ Ensure you have a web browser and an API key from a news provider like [NewsAPI]
    git clone https://github.com/your-username/news-web-app.git
 
 ## Configuration
-1.Replace YOUR_API_KEY in the JavaScript file with your actual API key.
-2.Save the changes and refresh the web application.
+- 1.Replace YOUR_API_KEY in the JavaScript file with your actual API key.
+- 2.Save the changes and refresh the web application.
